@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    position: absolute;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px ;
+}
+div{
+    margin: 20px;
+    position: relative;
+}
+div.head{
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 27px;
+}
+div.b1{
+    text-align: center;
+    font-size: 14px;
+}
+div.b2{
+    text-align: center;
+}
+div.b3 input{
+    display: flex;
+    margin: auto;
+}
+div.b4{
+    text-align: center;
+    font-size: 10px;
+}
+div.b5{
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+div.b6{
+    display: flex;
+}
